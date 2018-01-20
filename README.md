@@ -2,4 +2,6 @@
 ## Installation :
 - Mettre bien les fichiers ("game.py", "TheInvasion.png", "ImagesSprites") ENSEMBLE
 - Puis plus qu'a lancer le programme "game.py".
-Voila bon jeux 😃
+## Mot du Dev :
+Ce petit jeux est siple a l'utilisation et plutot fun ☺️
+## Voila bon jeux 😃
